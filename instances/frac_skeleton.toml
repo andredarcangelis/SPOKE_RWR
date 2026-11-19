@@ -1,0 +1,13 @@
+# Radiotherapy + three fractionation regime nodes, joined by is-a edges.
+# On its own this changes nothing for SPOKE nodes (nothing links the regimes to SPOKE yet);
+# it is the frame that literature or data edges get added to.
+description = "SPOKE + radiotherapy/fractionation regime nodes (no biology edges yet)"
+base = "../spoke_export"   # your existing export (nodes.csv, edges.csv)
+overlays = ["frac_skeleton"]
+directed = false
+restart = 0.1
+
+# Optional knobs, examples:
+# drop_edge_types = ["EXPRESSEDIN_AeG"]
+# [edge_type_weights]
+# EXPRESSEDIN_AeG = 0.5

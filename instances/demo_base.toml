@@ -1,0 +1,2 @@
+description = "DEMO: toy graph only, for testing the framework"
+base = "data/toy"

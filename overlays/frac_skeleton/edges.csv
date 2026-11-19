@@ -1,0 +1,4 @@
+source,target,edge_type,weight,citation
+ext:regime_conventional,ext:radiotherapy,ISA_RegimeTreatment,1,ASTRO/ASCO/AUA 2018 hypofractionation guideline (prostate)
+ext:regime_moderate_hypo,ext:radiotherapy,ISA_RegimeTreatment,1,ASTRO/ASCO/AUA 2018 hypofractionation guideline (prostate)
+ext:regime_ultrahypo,ext:radiotherapy,ISA_RegimeTreatment,1,ASTRO/ASCO/AUA 2018 hypofractionation guideline (prostate)

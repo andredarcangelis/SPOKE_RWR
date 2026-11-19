@@ -1,0 +1,5 @@
+# Plain SPOKE, no changes. Every other instance is compared against this one.
+description = "SPOKE as exported, no additions"
+base = "../spoke_export"   # your existing export (nodes.csv, edges.csv)
+directed = false
+restart = 0.1           # Nelson et al. 2021 used 0.1

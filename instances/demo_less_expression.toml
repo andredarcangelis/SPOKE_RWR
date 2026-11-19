@@ -1,0 +1,5 @@
+description = "DEMO: toy graph with tissue-expression edges down-weighted"
+base = "data/toy"
+
+[edge_type_weights]
+EXPRESSEDIN = 0.25

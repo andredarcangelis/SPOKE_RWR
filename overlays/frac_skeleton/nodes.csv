@@ -1,0 +1,5 @@
+node_id,name,type
+ext:radiotherapy,Radiotherapy,Treatment
+ext:regime_conventional,Conventional fractionation (1.8-2.0 Gy/fx),FractionationRegime
+ext:regime_moderate_hypo,Moderate hypofractionation (2.4-3.4 Gy/fx),FractionationRegime
+ext:regime_ultrahypo,Ultrahypofractionation (>=5 Gy/fx),FractionationRegime

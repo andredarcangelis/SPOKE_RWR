@@ -1,0 +1,14 @@
+source,target,edge_type,weight,citation
+ext:demo_regime,n7,DEMO_AFFECTS,1.0,toy-demo
+ext:demo_regime,n12,DEMO_AFFECTS,1.0,toy-demo
+ext:demo_regime,n20,DEMO_AFFECTS,1.0,toy-demo
+ext:demo_regime,n24,DEMO_AFFECTS,1.0,toy-demo
+ext:demo_regime,n25,DEMO_AFFECTS,1.0,toy-demo
+ext:demo_regime,n26,DEMO_AFFECTS,1.0,toy-demo
+ext:demo_regime,n27,DEMO_AFFECTS,1.0,toy-demo
+ext:demo_regime,n31,DEMO_AFFECTS,1.0,toy-demo
+n1,ext:demo_regime,DEMO_TREATEDWITH,3.0,toy-demo
+n2,ext:demo_regime,DEMO_TREATEDWITH,3.0,toy-demo
+n3,ext:demo_regime,DEMO_TREATEDWITH,3.0,toy-demo
+n4,ext:demo_regime,DEMO_TREATEDWITH,3.0,toy-demo
+n5,ext:demo_regime,DEMO_TREATEDWITH,3.0,toy-demo
