@@ -1,2 +1,5 @@
 __pycache__/
 *.pyc
+# full-SPOKE run results are ~480 MB each
+results/*__*.csv
+!results/demo_base__*.csv
